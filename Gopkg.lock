@@ -77,7 +77,7 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/rivine/rivine"
+  name = "github.com/jimbersoftware/rivine"
   packages = [
     "api",
     "build",

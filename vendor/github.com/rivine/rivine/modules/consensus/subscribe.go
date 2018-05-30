@@ -1,7 +1,7 @@
 package consensus
 
 import (
-	"github.com/rivine/rivine/modules"
+	"github.com/jimbersoftware/rivine/modules"
 
 	"github.com/rivine/bbolt"
 )

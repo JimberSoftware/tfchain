@@ -1,8 +1,8 @@
 package daemon
 
 import (
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 // NetworkConfig are variables for a particular chain. Currently, these are genesis constants and bootstrap peers

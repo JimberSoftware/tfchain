@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/threefoldfoundation/tfchain/pkg/config"
+	"github.com/jimbersoftware/tfchain/pkg/config"
 
-	"github.com/rivine/rivine/pkg/client"
+	"github.com/jimbersoftware/rivine/pkg/client"
 )
 
 func main() {

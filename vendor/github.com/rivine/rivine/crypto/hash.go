@@ -13,7 +13,7 @@ import (
 	"errors"
 	"hash"
 
-	"github.com/rivine/rivine/encoding"
+	"github.com/jimbersoftware/rivine/encoding"
 
 	"golang.org/x/crypto/blake2b"
 )

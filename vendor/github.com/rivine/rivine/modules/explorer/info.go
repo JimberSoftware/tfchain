@@ -3,9 +3,9 @@ package explorer
 import (
 	"errors"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/types"
 
 	"github.com/rivine/bbolt"
 )

@@ -2,8 +2,8 @@ package gateway
 
 import (
 	"github.com/NebulousLabs/fastrand"
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/modules"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/modules"
 )
 
 // managedPeerManagerConnect is a blocking function which tries to connect to

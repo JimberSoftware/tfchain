@@ -5,12 +5,12 @@ import (
 	"encoding/hex"
 
 	bolt "github.com/rivine/bbolt"
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/crypto"
-	"github.com/rivine/rivine/encoding"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/persist"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/crypto"
+	"github.com/jimbersoftware/rivine/encoding"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/persist"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 // convertLegacyDatabase converts a 0.5.0 consensus database,

@@ -12,9 +12,9 @@ import (
 	"github.com/bgentry/speakeasy"
 	"github.com/spf13/cobra"
 
-	"github.com/rivine/rivine/api"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/api"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 // have to be called prior to being able to use wallet cmds

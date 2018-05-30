@@ -15,9 +15,9 @@ import (
 	"time"
 
 	"github.com/NebulousLabs/fastrand"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/persist"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/persist"
+	"github.com/jimbersoftware/rivine/types"
 
 	// For the user to be securely connected to the network, the user must be
 	// connected to at least one node which will send them all of the blocks. An
@@ -106,7 +106,7 @@ import (
 	// from their peers. Encryption + authentication would have made the attack
 	// more difficult.
 
-	siasync "github.com/rivine/rivine/sync"
+	siasync "github.com/jimbersoftware/rivine/sync"
 )
 
 var (

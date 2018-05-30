@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/rivine/rivine/crypto"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/crypto"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/types"
 
 	"github.com/julienschmidt/httprouter"
 )

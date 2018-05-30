@@ -5,9 +5,9 @@ package explorer
 import (
 	"errors"
 
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/persist"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/persist"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 const (

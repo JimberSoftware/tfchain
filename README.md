@@ -6,7 +6,7 @@ The ThreeFold blockchain is used as a ledger for the ThreeFold Token ("TFT"), a 
 
 The ThreeFold blockchain is the technology behind the ThreeFold Grid ("TF Grid" or "Grid"), a grid where your data is local and controlled by you, shaping a new neutral and sustainable Internet. To learn more about this grid you can find and read the whitepaper at [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf).
 
-[rivine]: http://github.com/rivine/rivine
+[rivine]: http://github.com/jimbersoftware/rivine
 
 ## install and use tfchain
 
@@ -141,4 +141,4 @@ tfchain is using and build on top of [Rivine][rivine], a generic blockchain prot
 
 This official (Golang) implementation is build using a vendored version of [the reference Golang implementation of Rivine][rivine].
 
-For in-depth technical information you can check the [Rivine][rivine] docs at [github.com/rivine/rivine/tree/master/doc](https://github.com/rivine/rivine/tree/master/doc). There are no technical docs in this repository, as all the technology lives and is developed within the [Rivine repository][rivine].
+For in-depth technical information you can check the [Rivine][rivine] docs at [github.com/jimbersoftware/rivine/tree/master/doc](https://github.com/jimbersoftware/rivine/tree/master/doc). There are no technical docs in this repository, as all the technology lives and is developed within the [Rivine repository][rivine].

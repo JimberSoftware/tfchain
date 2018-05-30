@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/persist"
-	rivinesync "github.com/rivine/rivine/sync"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/persist"
+	rivinesync "github.com/jimbersoftware/rivine/sync"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 // BlockCreator participates in the Proof Of Block Stake protocol for creating new blocks

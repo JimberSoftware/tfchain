@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/types"
 	"github.com/spf13/cobra"
 )
 

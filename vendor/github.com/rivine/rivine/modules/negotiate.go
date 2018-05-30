@@ -5,8 +5,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/encoding"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/encoding"
 )
 
 const (

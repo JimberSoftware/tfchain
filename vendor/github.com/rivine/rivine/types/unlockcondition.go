@@ -11,9 +11,9 @@ import (
 	"io"
 	"sort"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/crypto"
-	"github.com/rivine/rivine/encoding"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/crypto"
+	"github.com/jimbersoftware/rivine/encoding"
 )
 
 // The interfaces and input parameter structs that make the unlock conditions tick.

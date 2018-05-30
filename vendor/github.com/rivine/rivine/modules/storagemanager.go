@@ -1,8 +1,8 @@
 package modules
 
 import (
-	"github.com/rivine/rivine/crypto"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/crypto"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 const (

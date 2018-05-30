@@ -5,9 +5,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/rivine/rivine/crypto"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/persist"
+	"github.com/jimbersoftware/rivine/crypto"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/persist"
 )
 
 const (

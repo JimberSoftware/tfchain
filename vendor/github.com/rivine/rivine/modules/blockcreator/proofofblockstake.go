@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/rivine/rivine/crypto"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/crypto"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 // SolveBlocks participates in the Proof Of Block Stake protocol by continously checking if

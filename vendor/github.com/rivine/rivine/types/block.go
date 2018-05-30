@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/rivine/rivine/crypto"
-	"github.com/rivine/rivine/encoding"
+	"github.com/jimbersoftware/rivine/crypto"
+	"github.com/jimbersoftware/rivine/encoding"
 )
 
 const (

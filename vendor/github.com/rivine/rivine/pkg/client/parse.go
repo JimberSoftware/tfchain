@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 var errUnableToParseSize = errors.New("unable to parse size")

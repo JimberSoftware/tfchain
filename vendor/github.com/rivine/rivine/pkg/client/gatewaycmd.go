@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/rivine/rivine/api"
+	"github.com/jimbersoftware/rivine/api"
 )
 
 var (

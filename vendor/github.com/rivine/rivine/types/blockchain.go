@@ -1,7 +1,7 @@
 package types
 
 import (
-	"github.com/rivine/rivine/build"
+	"github.com/jimbersoftware/rivine/build"
 )
 
 // BlockchainInfo contains information about a blockchain.

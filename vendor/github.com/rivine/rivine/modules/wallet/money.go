@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 var (

@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/bgentry/speakeasy"
-	"github.com/rivine/rivine/api"
+	"github.com/jimbersoftware/rivine/api"
 )
 
 // Non2xx returns true for non-success HTTP status codes.

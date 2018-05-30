@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/rivine/rivine/api"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/api"
+	"github.com/jimbersoftware/rivine/types"
 	"github.com/spf13/cobra"
 )
 

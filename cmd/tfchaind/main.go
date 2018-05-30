@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/threefoldfoundation/tfchain/pkg/config"
+	"github.com/jimbersoftware/tfchain/pkg/config"
 
-	"github.com/rivine/rivine/pkg/daemon"
+	"github.com/jimbersoftware/rivine/pkg/daemon"
 )
 
 var (

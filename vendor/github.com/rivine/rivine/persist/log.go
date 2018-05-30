@@ -7,8 +7,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 // Logger is a wrapper for the standard library logger that enforces logging

@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/profile"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/profile"
 	"github.com/spf13/cobra"
 )
 

@@ -1,10 +1,10 @@
 package explorer
 
 import (
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/encoding"
-	"github.com/rivine/rivine/persist"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/encoding"
+	"github.com/jimbersoftware/rivine/persist"
+	"github.com/jimbersoftware/rivine/types"
 
 	"github.com/rivine/bbolt"
 )

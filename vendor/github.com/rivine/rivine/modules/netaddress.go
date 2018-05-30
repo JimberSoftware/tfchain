@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/rivine/rivine/build"
+	"github.com/jimbersoftware/rivine/build"
 )
 
 // MaxEncodedNetAddressLength is the maximum length of a NetAddress encoded

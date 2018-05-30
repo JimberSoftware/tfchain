@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/rivine/rivine/api"
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/api"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/types"
 
 	"github.com/julienschmidt/httprouter"
 )

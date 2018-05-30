@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/encoding"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/encoding"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 var (

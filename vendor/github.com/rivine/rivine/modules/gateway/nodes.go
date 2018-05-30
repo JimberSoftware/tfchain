@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/NebulousLabs/fastrand"
-	"github.com/rivine/rivine/encoding"
-	"github.com/rivine/rivine/modules"
+	"github.com/jimbersoftware/rivine/encoding"
+	"github.com/jimbersoftware/rivine/modules"
 )
 
 var (

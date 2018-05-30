@@ -15,8 +15,8 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/encoding"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/encoding"
 )
 
 type (

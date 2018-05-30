@@ -3,8 +3,8 @@ package modules
 import (
 	"errors"
 
-	"github.com/rivine/rivine/encoding"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/encoding"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 const (

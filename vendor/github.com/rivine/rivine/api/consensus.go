@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/types"
 
 	"github.com/julienschmidt/httprouter"
 )

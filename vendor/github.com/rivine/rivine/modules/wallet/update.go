@@ -3,9 +3,9 @@ package wallet
 import (
 	"math"
 
-	"github.com/rivine/rivine/build"
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/build"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 // updateConfirmedSet uses a consensus change to update the confirmed set of

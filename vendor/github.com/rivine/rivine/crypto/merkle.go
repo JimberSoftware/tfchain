@@ -3,7 +3,7 @@ package crypto
 import (
 	"bytes"
 
-	"github.com/rivine/rivine/encoding"
+	"github.com/jimbersoftware/rivine/encoding"
 
 	"github.com/NebulousLabs/merkletree"
 )

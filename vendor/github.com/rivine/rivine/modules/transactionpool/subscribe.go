@@ -1,8 +1,8 @@
 package transactionpool
 
 import (
-	"github.com/rivine/rivine/modules"
-	"github.com/rivine/rivine/types"
+	"github.com/jimbersoftware/rivine/modules"
+	"github.com/jimbersoftware/rivine/types"
 )
 
 // updateSubscribersTransactions sends a new transaction pool update to all
